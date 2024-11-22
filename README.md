@@ -1,0 +1,1 @@
+En este artículo, aprenderás cómo probar contratos inteligentes de Cadence usando Overflow, un DSL (lenguaje específico de dominio) escrito en Golang que se utiliza en pruebas o para ejecutar una secuencia de interacciones contra un emulador local, testnet, mainnet o una instancia en memoria del flow-emulator.
